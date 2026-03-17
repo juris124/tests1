@@ -6,3 +6,5 @@
 ### Virsraksts
 #### Virsraksts
 *Slīprakstā* teksts
+
+Izmaiņas ...
